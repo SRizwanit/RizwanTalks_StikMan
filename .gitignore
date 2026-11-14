@@ -1,0 +1,5 @@
+node_modules/
+out/
+public/voice.mp3
+python/.cache/
+__pycache__/
