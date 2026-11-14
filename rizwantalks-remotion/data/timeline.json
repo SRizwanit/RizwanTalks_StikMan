@@ -1,0 +1,79 @@
+{
+  "fps": 30,
+  "width": 720,
+  "height": 720,
+  "durationInFrames": 300,
+  "audio": null,
+  "shots": [
+    {
+      "from": 0,
+      "to": 12,
+      "speakTo": 12,
+      "text": "",
+      "camera": {
+        "cx": 360,
+        "cy": 345,
+        "z": 1.0
+      },
+      "mood": "idle",
+      "push": 0.0,
+      "big": false
+    },
+    {
+      "from": 12,
+      "to": 54,
+      "speakTo": 54,
+      "text": "HELLO!",
+      "camera": {
+        "cx": 360,
+        "cy": 345,
+        "z": 1.0
+      },
+      "mood": "wave",
+      "push": 0.0,
+      "big": false
+    },
+    {
+      "from": 54,
+      "to": 99,
+      "speakTo": 99,
+      "text": "WELCOME",
+      "camera": {
+        "cx": 360,
+        "cy": 225,
+        "z": 3.0
+      },
+      "mood": "happy",
+      "push": 0.05,
+      "big": false
+    },
+    {
+      "from": 99,
+      "to": 135,
+      "speakTo": 135,
+      "text": "TO",
+      "camera": {
+        "cx": 360,
+        "cy": 215,
+        "z": 3.6
+      },
+      "mood": "talk",
+      "push": 0.05,
+      "big": false
+    },
+    {
+      "from": 135,
+      "to": 300,
+      "speakTo": 195,
+      "text": "RIZWANTALKS",
+      "camera": {
+        "cx": 360,
+        "cy": 345,
+        "z": 1.0
+      },
+      "mood": "happy",
+      "push": 0.0,
+      "big": true
+    }
+  ]
+}
